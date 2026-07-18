@@ -1,0 +1,16 @@
+Brand,Year,Fuel_Type,Transmission,Kilometers_Driven,Owner,Engine_CC,Mileage,Price
+Maruti,2018,Petrol,Manual,45000,First,1197,22.5,550000
+Hyundai,2019,Diesel,Manual,35000,First,1493,21.0,720000
+Honda,2017,Petrol,Automatic,50000,Second,1498,18.5,680000
+Toyota,2020,Diesel,Automatic,25000,First,2393,15.5,1800000
+Tata,2021,Petrol,Manual,15000,First,1199,20.0,850000
+Mahindra,2018,Diesel,Manual,60000,Second,2179,16.0,950000
+Kia,2022,Petrol,Automatic,10000,First,1497,18.8,1450000
+Renault,2019,Petrol,Manual,30000,First,999,20.5,650000
+Ford,2017,Diesel,Manual,70000,Third,1498,19.2,580000
+Volkswagen,2020,Petrol,Automatic,22000,First,999,18.0,1100000
+Nissan,2018,Petrol,Manual,48000,Second,1498,17.8,620000
+Skoda,2021,Diesel,Automatic,18000,First,1968,19.5,1700000
+MG,2022,Petrol,Automatic,12000,First,1451,17.5,1600000
+Maruti,2016,CNG,Manual,80000,Third,998,30.0,420000
+Hyundai,2023,Petrol,Automatic,5000,First,1197,21.5,980000
